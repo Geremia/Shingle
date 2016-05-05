@@ -1,0 +1,27 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                print = id; 
+                showSDLHelp = id; 
+                updateCustomer = id; 
+                updateFields = id; 
+                updateJobNumber = id; 
+            }; 
+            CLASS = SDLAppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                customerField = NSTextField; 
+                dateField = NSTextField; 
+                firstPageWidthField = NSTextField; 
+                innermostPageWidthField = NSTextField; 
+                jobNumberField = NSTextField; 
+                pagesField = NSTextField; 
+                table = NSTableView; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,6 @@
+"InvalidEntry" = "Invalid Entry";
+"JobNumberTooLong" = "Job numbers cannot be more than five digits long. Zero will be substituted in place of your previous entry.";
+"OK" = "OK";
+"Mod4" = "Page numbers must be divisible by four. Zero will be substitued in place of your previous entry.";
+"SaddleHelp" = "Saddle Help";
+"Help" = "NaN (not a number) means that the number can not be computed and therefore requires further input.";
